@@ -13,5 +13,5 @@
 **Turma:** *Integrado em informática - 3º período*
 
 #### Trabalho 03
-* *Questões resolvidas 01-15 do cap06*
-* *Questões resolvidas 01-15 do cap08*
+* *Questões resolvidas 01-15 do Cap 06*
+* *Questões resolvidas 01-15 do Cap 08*
